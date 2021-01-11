@@ -861,11 +861,7 @@ html {
 }
 
 @media (max-width: 1300px) {
-  *{
-    overflow-x: hidden;
-  }
-
-  
+ 
   .team {
     padding-bottom: 5rem;
   }
